@@ -58,7 +58,7 @@ header .logo {
 }
 
 .sidebar ul li a:hover {
-    color: #d62c15;
+    color: #eea60c;
 }
 
 /* Estilos para el contenido principal */
@@ -89,7 +89,7 @@ button {
 }
 
 button:hover {
-    background-color: #20e60e;
+    background-color: #e6ac0e;
 }
 
 /* Pie de página */
