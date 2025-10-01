@@ -12,5 +12,8 @@ document.addEventListener("DOMContentLoaded", function() {
             extraInfo.style.display = "none";
             toggleButton.textContent = "Mostrar más información";
         }
+		console.log("Hola mundo");
+		console.log("Otra línea");
+
     });
 });
